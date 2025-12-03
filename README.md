@@ -181,13 +181,9 @@ EchoAI/
 │   ├── generate_model.py                  # TFLite converter script
 │   └── whisper_tflite_model_generation_and_test.ipynb
 │
-├── demo_and_apk/                          # Pre-built APKs
-│   ├── WhisperASR.apk
-│   └── Screenshot.jpg
 │
 ├── README.md                              # This file
 ├── LICENSE.txt
-└── privacy_policy.md
 ```
 
 ## 🚀 Getting Started
@@ -326,6 +322,16 @@ The app uses Material Design 3 with customizable color schemes. Edit `res/values
 <color name="gradient_start">#00BFA5</color>
 <color name="gradient_end">#7C4DFF</color>
 ```
+
+## Demo
+<h3 align="center">Click to watch</h3>
+
+<p align="center">
+  <a href="https://youtu.be/FXXo6oR0BHc">
+    <img src="https://img.youtube.com/vi/hVLQ0l04cgM/0.jpg" alt="Watch the video">
+  </a>
+</p>
+
 
 ## 📄 License
 
