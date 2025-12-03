@@ -328,7 +328,7 @@ The app uses Material Design 3 with customizable color schemes. Edit `res/values
 
 <p align="center">
   <a href="https://youtu.be/FXXo6oR0BHc">
-    <img src="https://img.youtube.com/vi/hVLQ0l04cgM/0.jpg" alt="Watch the video">
+    <img src="https://img.youtu.be/FXXo6oR0BHc/0.jpg" alt="Watch the video">
   </a>
 </p>
 
