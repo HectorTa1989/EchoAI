@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Modern Material Design 3 Color Palette -->
+    <!-- Primary colors - Vibrant teal/cyan -->
+    <color name="md_theme_primary">#00BFA5</color>
+    <color name="md_theme_primaryContainer">#B2DFDB</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_onPrimaryContainer">#004D40</color>
+    
+    <!-- Secondary colors - Purple accent -->
+    <color name="md_theme_secondary">#7C4DFF</color>
+    <color name="md_theme_secondaryContainer">#D1C4E9</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_onSecondaryContainer">#311B92</color>
+    
+    <!-- Tertiary colors - Gradient purple -->
+    <color name="md_theme_tertiary">#AB47BC</color>
+    <color name="md_theme_tertiaryContainer">#E1BEE7</color>
+    <color name="md_theme_onTertiary">#FFFFFF</color>
+    <color name="md_theme_onTertiaryContainer">#4A148C</color>
+    
+    <!-- Surface colors -->
+    <color name="md_theme_surface">#FAFAFA</color>
+    <color name="md_theme_surfaceVariant">#F5F5F5</color>
+    <color name="md_theme_onSurface">#212121</color>
+    <color name="md_theme_onSurfaceVariant">#424242</color>
+    
+    <!-- Background colors -->
+    <color name="md_theme_background">#FFFFFF</color>
+    <color name="md_theme_onBackground">#1C1B1F</color>
+    
+    <!-- Error colors -->
+    <color name="md_theme_error">#FF5252</color>
+    <color name="md_theme_errorContainer">#FFEBEE</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_onErrorContainer">#B71C1C</color>
+    
+    <!-- Outline colors -->
+    <color name="md_theme_outline">#BDBDBD</color>
+    <color name="md_theme_outlineVariant">#E0E0E0</color>
+    
+    <!-- Dark theme colors -->
+    <color name="md_theme_primary_dark">#64FFDA</color>
+    <color name="md_theme_primaryContainer_dark">#00695C</color>
+    <color name="md_theme_onPrimary_dark">#003D33</color>
+    <color name="md_theme_onPrimaryContainer_dark">#A7FFEB</color>
+    
+    <color name="md_theme_secondary_dark">#B388FF</color>
+    <color name="md_theme_secondaryContainer_dark">#512DA8</color>
+    <color name="md_theme_onSecondary_dark">#1A0A3E</color>
+    <color name="md_theme_onSecondaryContainer_dark">#E1BEE7</color>
+    
+    <color name="md_theme_surface_dark">#121212</color>
+    <color name="md_theme_surfaceVariant_dark">#1E1E1E</color>
+    <color name="md_theme_onSurface_dark">#E0E0E0</color>
+    <color name="md_theme_onSurfaceVariant_dark">#BDBDBD</color>
+    
+    <color name="md_theme_background_dark">#0A0A0A</color>
+    <color name="md_theme_onBackground_dark">#E3E2E6</color>
+    
+    <!-- Legacy colors for backward compatibility -->
+    <color name="colorPrimary">#00BFA5</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#7C4DFF</color>
+    <color name="buttonBackground">#7C4DFF</color>
+    
+    <!-- Gradient colors -->
+    <color name="gradient_start">#00BFA5</color>
+    <color name="gradient_end">#7C4DFF</color>
+    
+    <!-- Semi-transparent overlays -->
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#40FFFFFF</color>
+    
+    <!-- Status colors -->
+    <color name="status_recording">#FF5252</color>
+    <color name="status_processing">#FFB300</color>
+    <color name="status_done">#00C853</color>
+</resources>
